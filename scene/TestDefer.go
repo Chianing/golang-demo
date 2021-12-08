@@ -1,4 +1,4 @@
-package scence
+package scene
 
 import (
 	"fmt"
