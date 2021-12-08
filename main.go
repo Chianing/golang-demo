@@ -13,4 +13,7 @@ func main() {
 	// defer计算顺序
 	// scene.DeferComputedOrderTest()
 
+	// map key的遍历顺序
+	// scene.TestMapPrintOrder()
+
 }
