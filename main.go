@@ -16,4 +16,8 @@ func main() {
 	// map key的遍历顺序
 	// scene.TestMapPrintOrder()
 
+	// map 变更value的值
+	// scene.TestChangeMapValueField()
+	// scene.TestChangeMapPtrValueField()
+
 }
