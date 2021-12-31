@@ -1,5 +1,7 @@
 package main
 
+import "golang-demo/scene"
+
 func main() {
 
 	// defer执行顺序
@@ -19,5 +21,8 @@ func main() {
 	// map 变更value的值
 	// scene.TestChangeMapValueField()
 	// scene.TestChangeMapPtrValueField()
+
+	// 爬虫
+	scene.GetResponse()
 
 }
